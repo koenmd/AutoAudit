@@ -1,5 +1,5 @@
 # AutoAudit
-Copy of autoaudit.codeplex.com
+Copy of https://autoaudit.codeplex.com
 
 AutoAudit script
 Paul Nielsen, John Sigouin
